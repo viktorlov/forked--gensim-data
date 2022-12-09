@@ -148,3 +148,8 @@ To load a model or corpus, use either the Python or command line interface of [G
 `Gensim-data` is open source software released under the [LGPL 2.1 license](https://github.com/rare-technologies/gensim-data/blob/master/LICENSE).
 
 Copyright (c) 2018 [RARE Technologies](https://rare-technologies.com/).
+
+----------------
+
+# Source
+[Векторное представление слов](https://neerc.ifmo.ru/wiki/index.php?title=%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2)
